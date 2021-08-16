@@ -1,2 +1,2 @@
-# kaaazmi.github.io
+# Kushal.github.io
 My Portfolio
